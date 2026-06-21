@@ -19,11 +19,7 @@ A simple browser-based QR code generator. Enter any text or URL, pick a size and
 
 ## Demo
 
-
-## Screenshot
-
-> Add a screenshot of the app here. Example:
-> `![QR Code Generator Screenshot](./screenshot.png)`
+Live Demo: https://awaishussainsoomro.github.io/QRCodeGenerator/
 
 ## Getting Started
 
