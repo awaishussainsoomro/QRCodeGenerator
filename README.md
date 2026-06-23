@@ -19,7 +19,7 @@ A simple browser-based QR code generator. Enter any text or URL, pick a size and
 
 ## Demo
 
-🔗 [Live Demo](https://awaishussainsoomro.github.io/textToVoiceConverter/](https://awaishussainsoomro.github.io/QRCodeGenerator/)
+🔗 [Live Demo](https://awaishussainsoomro.github.io/QRCodeGenerator/)
 
 ## Getting Started
 
